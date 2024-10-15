@@ -72,23 +72,3 @@ HypeRadar is a powerful, user-friendly social media analytics tool designed to h
 4. **Generate Reports**: Download detailed performance reports.
 5. **Schedule Posts**: Plan and schedule posts for multiple platforms directly from the dashboard.
 
-## Contributing
-
-We welcome contributions to improve HypeRadar! Here's how you can contribute:
-
-1. Fork the repository.
-2. Create a feature branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or need support, feel free to reach out:
-
-- Email: yourname@domain.com
-- GitHub: [YourUsername](https://github.com/YourUsername)
