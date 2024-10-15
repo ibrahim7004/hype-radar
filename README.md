@@ -20,44 +20,6 @@ HypeRadar is a powerful, user-friendly social media analytics tool designed to h
 - PostgreSQL or MongoDB (for database storage)
 - API keys for social media platforms (Facebook, Twitter, Instagram, Reddit)
 
-### Installation
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/YourUsername/HypeRadar.git
-    cd HypeRadar
-    ```
-
-2. **Create a virtual environment** (optional but recommended):
-    ```bash
-    python3 -m venv venv
-    source venv/bin/activate
-    ```
-
-3. **Install dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. **Set up environment variables**:
-   Create a `.env` file to store API keys and database configurations:
-    ```env
-    FACEBOOK_API_KEY=your_facebook_api_key
-    TWITTER_API_KEY=your_twitter_api_key
-    INSTAGRAM_API_KEY=your_instagram_api_key
-    REDDIT_API_KEY=your_reddit_api_key
-    DATABASE_URL=your_database_url
-    ```
-
-5. **Run database migrations**:
-    ```bash
-    python manage.py migrate
-    ```
-
-6. **Run the development server**:
-    ```bash
-    python manage.py runserver
-    ```
 
 ### API Setup
 
