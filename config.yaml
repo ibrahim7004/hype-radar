@@ -1,0 +1,8 @@
+data_collection:
+  max_tweets_per_request: 100
+  max_requests_per_window: 450
+  collection_window_minutes: 15
+
+logging:
+  level: INFO
+  log_file: logs/hype_radar.log
